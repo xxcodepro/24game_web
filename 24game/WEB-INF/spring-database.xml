@@ -7,11 +7,11 @@
 		class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://localhost:3306/24game" />
-		<property name="username" value="root" />
+		<property name="url" value="" />
+		<property name="username" value="" />
 		<property name="password" value="" /> 
-		<property name="username" value="24game" />
-		<property name="password" value="cSyuWXBAGikn9CW3" />
+		<property name="username" value="" />
+		<property name="password" value="" />
 	</bean>
 
 </beans>
